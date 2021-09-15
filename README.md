@@ -6,6 +6,6 @@ machine learning to visualize what attributes result in an increased chance of w
 
 More details on the project and my thought process when doing it is outlined within the project code -- specifically in Olympics Jupyter Notebook.
 
-This project is still in the works as I am a firm believer that there is always room to improve and make code better. If there are suggestions like how to make the EDA more focused, how to make the model more accurate, or anything else, please don't hesistate to inform me.
+This project is still in the works as I am a firm believer that there is always room to improve and make code better. If there are suggestions like how to make the EDA more focused, how to make the model more accurate, or anything else, please don't hesistate to inform me or contribute.
 
 Finally the dataset I used can be accessed here: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results?select=noc_regions.cs
